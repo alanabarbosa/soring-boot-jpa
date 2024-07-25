@@ -1,1 +1,1 @@
-# soring-boot-jpa
+# spring-boot-jpa
